@@ -35,15 +35,4 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-- [2025-06-04T16:22:29] docs(readme): improve documentation notes and usage guidelines
-- [2025-07-10T12:51:52] docs(readme): improve documentation notes and usage guidelines
-- [2025-07-24T11:28:50] style: enhance README formatting and badge definitions
-- [2025-07-30T17:13:22] style: enhance README formatting and badge definitions
-- [2025-08-20T10:25:09] style: enhance README formatting and badge definitions
-- [2025-09-01T20:52:26] style: enhance README formatting and badge definitions
-- [2025-09-23T18:38:00] docs(readme): improve documentation notes and usage guidelines
-- [2025-12-18T09:50:50] docs(readme): improve documentation notes and usage guidelines
-- [2026-05-21T18:47:54] docs(readme): improve documentation notes and usage guidelines
-- [2026-05-27T10:48:09] style: enhance README formatting and badge definitions
-- [2026-07-14T22:15:48] docs(readme): improve documentation notes and usage guidelines
-- [2026-07-22T19:34:04] style: enhance README formatting and badge definitions
+<!-- [2024-11-05T18:02:22] docs(readme): update project documentation and overview -->
