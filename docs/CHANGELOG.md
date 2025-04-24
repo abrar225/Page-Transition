@@ -1,2 +1,3 @@
 - [2025-01-29T21:41:39] docs(changelog): update release notes and revision log
 - [2025-02-04T09:55:18] docs(changelog): update release notes and revision log
+- [2025-04-24T15:49:15] docs(changelog): update release notes and revision log
