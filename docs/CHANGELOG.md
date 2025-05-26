@@ -1,1 +1,2 @@
 <!-- [2025-05-22T12:29:01] fix: minor edge case handling in config parser -->
+<!-- [2025-05-26T10:24:43] docs(changelog): update version release notes -->
