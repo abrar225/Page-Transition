@@ -8,3 +8,4 @@
 <!-- [2025-01-31T13:06:19] docs: refine local setup instructions -->
 <!-- [2025-02-19T14:57:37] docs: refine local setup instructions -->
 <!-- [2025-05-09T10:32:32] docs: refine local setup instructions -->
+<!-- [2025-06-26T19:06:00] docs: refine local setup instructions -->
