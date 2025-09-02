@@ -41,3 +41,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 <!-- [2025-06-05T19:15:37] docs(readme): update project documentation and overview -->
 <!-- [2025-07-30T17:06:59] docs(readme): update project documentation and overview -->
 <!-- [2025-08-27T13:42:02] docs(readme): update project documentation and overview -->
+<!-- [2025-09-02T09:21:55] style: improve formatting and badge alignment -->
