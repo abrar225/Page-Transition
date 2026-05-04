@@ -18,3 +18,4 @@
 <!-- [2026-03-26T10:58:02] docs(changelog): update version release notes -->
 <!-- [2026-04-02T13:49:18] docs(changelog): update version release notes -->
 <!-- [2026-04-28T19:39:13] fix: minor edge case handling in config parser -->
+<!-- [2026-05-04T18:09:17] fix: minor edge case handling in config parser -->
