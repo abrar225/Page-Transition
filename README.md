@@ -44,3 +44,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 - [2025-09-23T18:38:00] docs(readme): improve documentation notes and usage guidelines
 - [2025-12-18T09:50:50] docs(readme): improve documentation notes and usage guidelines
 - [2026-05-21T18:47:54] docs(readme): improve documentation notes and usage guidelines
+- [2026-05-27T10:48:09] style: enhance README formatting and badge definitions
